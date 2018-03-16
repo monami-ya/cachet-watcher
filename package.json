@@ -1,0 +1,22 @@
+{
+  "name": "cachet-watcher",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/monami-ya/catchet-watcher.git"
+  },
+  "keywords": [
+    "Cachet",
+    "monitoring"
+  ],
+  "author": "monaka@monami-ya.jp",
+  "license": "MIT",
+  "dependencies": {
+    "cachet-node": "^0.1.1"
+  }
+}
